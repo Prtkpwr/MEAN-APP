@@ -1,0 +1,25 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "*",
+    "mongoose": "^4.13.9",
+    "morgan": "^1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prtkpwr/MEAN-APP.git"
+  },
+  "author": "prtkpwr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prtkpwr/MEAN-APP/issues"
+  },
+  "homepage": "https://github.com/Prtkpwr/MEAN-APP#readme"
+}
